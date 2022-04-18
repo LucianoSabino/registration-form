@@ -34,7 +34,7 @@ const pesquisarCep = async() => {
     const cep = document.getElementById('cep').value;
 
     //Pegando a url do saite viaCep e colacando o cep que o usuario digitar 
-    const url = `http://viacep.com.br/ws/${cep}/json/`
+    const url = `https://viacep.com.br/ws/${cep}/json/`
 
     //Sabendo se o cep tem munero a mais ou a menos ou se tem letra
     if (cepValido(cep)) {
