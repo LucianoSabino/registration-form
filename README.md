@@ -1,4 +1,4 @@
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="https://github.com/LucianoSabino/registration-form/blob/main/registration-form.gif?raw=true" alt="exemplo imagem">
 
 # Registration-Form
 
